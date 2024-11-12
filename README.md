@@ -1,4 +1,4 @@
-# <?php
+<?php
 // Last.fm API key
 $apiKey = '296176cf7d56fa78648ff38a26a22e11';
 
